@@ -3,5 +3,8 @@ This is implementation of the paper RaMen: Multi-Strategy Multi-Modal Learning f
 
 # How to train model
 ```
-python train.py
+python train.py --dataset {dataset_name}
 ```
+
+# Hyperparams Setting
+In the final version of paper at ECAI2025, we provide full details of hyperparameter tuning to facilitate reproducibility. 
